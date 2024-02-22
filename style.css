@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.section1,.section5{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.section5 form{
+    text-align: center;
+}
+.section5 p{
+    background-color: yellow;
+    color: black;
+    width: 300px;
+    padding: 5px;
+    text-align: center;
+}
+.food{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 200px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    gap: 10px;
+   
+}
+.food img{
+    width: 200px;
+    height: 250px;
+}
+#one, #two{
+    padding-left: 490px;
+}
